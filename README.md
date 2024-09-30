@@ -1,11 +1,11 @@
 # Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models
 
-<a href='https://arxiv.org/abs/'><img src='https://img.shields.io/badge/Arxiv-Paper-red'></a>
+<a href='https://arxiv.org/abs/2409.18943'><img src='https://img.shields.io/badge/Arxiv-Paper-red'></a>
 
 ![Method](images/method.png)
 
 ##  🤩 Release
-- [2024/09/20] 🥳 [Ruler]() is accepted by EMNLP 2024 Findings.
+- [2024/09/20] 🥳 [Ruler](https://arxiv.org/abs/2409.18943) is accepted by EMNLP 2024 Findings.
 
 ## 😎 Overview
 
@@ -272,7 +272,15 @@ lm_eval --model $MODEL \
 If you finding our work interesting or helpful to you, please cite this repo.
 
 ```plain
-
+@misc{li2024rulermodelagnosticmethodcontrol,
+      title={Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models}, 
+      author={Jiaming Li and Lei Zhang and Yunshui Li and Ziqiang Liu and yuelin bai and Run Luo and Longze Chen and Min Yang},
+      year={2024},
+      eprint={2409.18943},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.18943}, 
+}
 ```
 
 ## 🫡 Contact
